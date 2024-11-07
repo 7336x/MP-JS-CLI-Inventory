@@ -1,4 +1,4 @@
-import showMenu from "./menu.js";
+import showMenu from "./salonMenu.js";
 
 // Start the CLI
 showMenu();
